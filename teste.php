@@ -56,6 +56,21 @@
 
 		git reset --hard codigo pego no git log referente ao backup
 
+		-------------------------------------------------------------------------------------------------------------------------------------
+
+		zerando a conexao com o repositorio remoto.
+		git remote rm origin
+
+		-------------------------------
+		conenctando no repositorio:
+
+		git remote add origin https://github.com/mouramatheus/aulaGit
+
+		verifica se conecntou:
+		git remote -v
+
+		como puxar do repositorio remoto git hub para repositorio local ?? os dois devem estao em sicronia
+		
 
 
 		*/
