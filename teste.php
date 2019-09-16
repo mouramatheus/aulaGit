@@ -71,6 +71,11 @@
 
 		como puxar do repositorio remoto git hub para repositorio local ?? os dois devem estao em sicronia
 		
+		enviar para o remoto
+
+		git push origin master
+
+		empurre o arquivo do repositorio remoto da mesa de trabalho atual para o repositorio remoto
 
 
 		*/
