@@ -77,6 +77,9 @@
 
 		empurre o arquivo do repositorio remoto da mesa de trabalho atual para o repositorio remoto
 
+		---------------------------------------------------------------------------------------------------------
+
+		teste enviando arquivo modificado em outra pasta, apos ter feito o clone do diretorio
 
 		*/
 	?>
